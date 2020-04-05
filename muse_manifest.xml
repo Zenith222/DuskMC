@@ -1,0 +1,92 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586044384138">
+  <folder name="css">
+    <file name="site_global.css" crc="479923206"/>
+    <file name="master_base-layout.css" crc="4185546899" ref="seasons:index:info"/>
+    <file name="seasons.css" crc="3999148013" ref="seasons"/>
+    <file name="index.css" crc="231533609" ref="index"/>
+    <file name="info.css" crc="327834082" ref="info"/>
+  </folder>
+  <folder name="fonts">
+    <file name="minecraft-regular.woff" crc="3949935379"/>
+    <file name="minecraft-regular.eot" crc="4184116048"/>
+    <file name="minecraft-regular.svg" crc="3767192544"/>
+  </folder>
+  <folder name="assets">
+    <file name="minecraft_click.mp3" crc="3878118922" seo="true" mt="1586042444000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:seasons"/>
+    <file name="museutils.js" crc="3939489907" ref="index:info:seasons"/>
+    <file name="whatinput.js" crc="86476730" ref="index:info:seasons"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:info:seasons"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:info:seasons"/>
+    <file name="require.js" crc="4177726516" ref="index:info:seasons"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4224351403" ref="index"/>
+    <file name="menu_box_cut.svg" crc="3766986080" ref="index"/>
+    <file name="menu_box_cut_poster_u649.png" crc="384458540" ref="index"/>
+    <file name="home.png" crc="328082461" seo="true" ref="index:info:seasons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="seasons" alt=""/>
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="info.png" crc="97500911" seo="true" ref="index:info:seasons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="seasons" alt=""/>
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="seasons.png" crc="527190164" seo="true" ref="index:info:seasons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="seasons" alt=""/>
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="donate.png" crc="4123205781" seo="true" ref="index:info:seasons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="seasons" alt=""/>
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="menu_bar_front_selected.svg" crc="219799885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_bar_front_selected_poster_.png" crc="4182630406" ref="index"/>
+    <file name="logo.svg" crc="4068620509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="141122127" ref="index"/>
+    <file name="banner.jpg" crc="99129014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="playnow.gif" crc="451612908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stone.jpg" crc="4225272230" ref="index:info:seasons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="menu_bar_second_selected.svg" crc="4100841416" seo="true" ref="info">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="menu_bar_second_selected_poster_.png" crc="4141348494" ref="info"/>
+    <file name="menu_bar_third_selected.svg" crc="282536745" seo="true" ref="seasons">
+      <caption webpage="seasons" alt=""/>
+    </file>
+    <file name="menu_bar_third_selected_poster_.png" crc="4139449294" ref="seasons"/>
+  </folder>
+  <file name="index.html" crc="473880575" mt="1586044307000" redirect="true"/>
+  <file name="info.html" crc="179261542" seo="true" mt="1586042063098" redirect="true"/>
+  <file name="seasons.html" crc="4270639516" seo="true" mt="1586042089405" redirect="true"/>
+</manifest>
