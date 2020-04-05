@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586097095862">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586106884706">
   <folder name="css">
     <file name="site_global.css" crc="4116999223"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
     <file name="seasons.css" crc="3776113533" ref="seasons"/>
-    <file name="index.css" crc="371340015" ref="index"/>
+    <file name="index.css" crc="4043291362" ref="index"/>
     <file name="info.css" crc="37086318" ref="info"/>
   </folder>
   <folder name="fonts">
@@ -54,9 +54,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo_poster_.png" crc="271549677" ref="index"/>
-    <file name="banner.jpg" crc="99129014" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="playnow.gif" crc="451612908" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -88,8 +85,11 @@
     <file name="season_obsidian.png" crc="412980924" seo="true" ref="seasons">
       <caption webpage="seasons" alt=""/>
     </file>
+    <file name="season_2_banner.png" crc="458516275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="32127465" mt="1586057251549" redirect="true"/>
+  <file name="index.html" crc="4044568921" mt="1586106310292" redirect="true"/>
   <file name="info.html" crc="3945635265" seo="true" mt="1586097080357" redirect="true"/>
   <file name="seasons.html" crc="4176968396" seo="true" mt="1586097084900" redirect="true"/>
 </manifest>
