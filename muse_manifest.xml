@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586052324850">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586052567343">
   <folder name="css">
     <file name="site_global.css" crc="479923206"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
-    <file name="seasons.css" crc="466604352" ref="seasons"/>
+    <file name="seasons.css" crc="497786448" ref="seasons"/>
     <file name="index.css" crc="349475849" ref="index"/>
     <file name="info.css" crc="3990120418" ref="info"/>
   </folder>
@@ -90,5 +90,5 @@
   </folder>
   <file name="index.html" crc="3930041372" mt="1586052124630" redirect="true"/>
   <file name="info.html" crc="3795344958" seo="true" mt="1586052143169" redirect="true"/>
-  <file name="seasons.html" crc="4146787815" seo="true" mt="1586052319218" redirect="true"/>
+  <file name="seasons.html" crc="3915232191" seo="true" mt="1586052559887" redirect="true"/>
 </manifest>
