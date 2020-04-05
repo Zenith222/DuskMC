@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586052567343">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586053076938">
   <folder name="css">
     <file name="site_global.css" crc="479923206"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
@@ -12,7 +12,7 @@
     <file name="minecraft-regular.svg" crc="3767192544"/>
   </folder>
   <folder name="assets">
-    <file name="minecraft_click.mp3" crc="3878118922" seo="true" mt="1586042444000"/>
+    <file name="minecraft_click.mp3" crc="3829672032" seo="true" mt="1586053022000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:seasons"/>
