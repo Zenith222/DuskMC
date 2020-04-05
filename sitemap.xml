@@ -55,6 +55,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://dusk.pro/assets/oembed.json</loc>
+    <lastmod>2020-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://dusk.pro/assets/minecraft_click.mp3</loc>
     <lastmod>2020-04-04</lastmod>
     <changefreq>weekly</changefreq>

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586053076938">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586057473074">
   <folder name="css">
-    <file name="site_global.css" crc="479923206"/>
+    <file name="site_global.css" crc="4116999223"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
     <file name="seasons.css" crc="497786448" ref="seasons"/>
-    <file name="index.css" crc="349475849" ref="index"/>
+    <file name="index.css" crc="371340015" ref="index"/>
     <file name="info.css" crc="3990120418" ref="info"/>
   </folder>
   <folder name="fonts">
@@ -13,6 +13,7 @@
   </folder>
   <folder name="assets">
     <file name="minecraft_click.mp3" crc="3829672032" seo="true" mt="1586053022000"/>
+    <file name="oembed.json" crc="306812032" seo="true" mt="1586057455000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:seasons"/>
@@ -88,7 +89,7 @@
       <caption webpage="seasons" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3930041372" mt="1586052124630" redirect="true"/>
+  <file name="index.html" crc="32127465" mt="1586057251549" redirect="true"/>
   <file name="info.html" crc="3795344958" seo="true" mt="1586052143169" redirect="true"/>
   <file name="seasons.html" crc="3915232191" seo="true" mt="1586052559887" redirect="true"/>
 </manifest>
