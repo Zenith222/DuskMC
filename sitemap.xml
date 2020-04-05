@@ -20,6 +20,9 @@
     <image:image>
       <image:loc>http://dusk.pro/images/menu_bar_second_selected.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://dusk.pro/images/info.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://dusk.pro/seasons.html</loc>
@@ -40,6 +43,15 @@
     </image:image>
     <image:image>
       <image:loc>http://dusk.pro/images/menu_bar_third_selected.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dusk.pro/images/seasons.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dusk.pro/images/season_stone_image.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dusk.pro/images/season_obsidian.png</image:loc>
     </image:image>
   </url>
   <url>
