@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586052171470">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586052324850">
   <folder name="css">
     <file name="site_global.css" crc="479923206"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
-    <file name="seasons.css" crc="4091094920" ref="seasons"/>
+    <file name="seasons.css" crc="466604352" ref="seasons"/>
     <file name="index.css" crc="349475849" ref="index"/>
     <file name="info.css" crc="3990120418" ref="info"/>
   </folder>
@@ -23,8 +23,8 @@
     <file name="require.js" crc="4177726516" ref="index:info:seasons"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4224351403" ref="index"/>
-    <file name="menu_box_cut.svg" crc="3766986080" ref="index"/>
+    <file name="favicon.ico" crc="4224351403" ref="index:seasons"/>
+    <file name="menu_box_cut.svg" crc="3766986080" ref="index:seasons"/>
     <file name="home.png" crc="328082461" seo="true" ref="index:info:seasons">
       <caption webpage="index" alt=""/>
       <caption webpage="info" alt=""/>
@@ -72,7 +72,7 @@
       <caption webpage="seasons" alt=""/>
     </file>
     <file name="menu_bar_third_selected_poster_.png" crc="4139449294" ref="seasons"/>
-    <file name="menu_box_cut_poster_u693.png" crc="384458540" ref="index"/>
+    <file name="menu_box_cut_poster_u693.png" crc="384458540" ref="index:seasons"/>
     <file name="info.svg" crc="8509949" seo="true" ref="info">
       <caption webpage="info" alt=""/>
     </file>
@@ -90,5 +90,5 @@
   </folder>
   <file name="index.html" crc="3930041372" mt="1586052124630" redirect="true"/>
   <file name="info.html" crc="3795344958" seo="true" mt="1586052143169" redirect="true"/>
-  <file name="seasons.html" crc="334483417" seo="true" mt="1586052149481" redirect="true"/>
+  <file name="seasons.html" crc="4146787815" seo="true" mt="1586052319218" redirect="true"/>
 </manifest>
