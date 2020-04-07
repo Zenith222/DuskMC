@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586122110449">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586288103507">
   <folder name="css">
-    <file name="site_global.css" crc="4116999223"/>
+    <file name="site_global.css" crc="479923206"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
     <file name="seasons.css" crc="3776113533" ref="seasons"/>
     <file name="index.css" crc="378870907" ref="index"/>
-    <file name="info.css" crc="439991040" ref="info"/>
+    <file name="info.css" crc="4023802877" ref="info"/>
   </folder>
   <folder name="fonts">
     <file name="minecraft-regular.woff" crc="3949935379"/>
@@ -22,6 +22,8 @@
     <file name="museconfig.js" crc="3936894949" ref="index:info:seasons"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:info:seasons"/>
     <file name="require.js" crc="4177726516" ref="index:info:seasons"/>
+    <file name="webpro.js" crc="3856315280" ref="info"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="info"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4224351403" ref="index:info"/>
@@ -90,6 +92,6 @@
     </file>
   </folder>
   <file name="index.html" crc="4201553008" mt="1586107899128" redirect="true"/>
-  <file name="info.html" crc="3997378783" seo="true" mt="1586122100994" redirect="true"/>
+  <file name="info.html" crc="3886231476" seo="true" mt="1586288034271" redirect="true"/>
   <file name="seasons.html" crc="4176968396" seo="true" mt="1586097084900" redirect="true"/>
 </manifest>
