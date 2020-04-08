@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586288103507">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="dusk.pro" resolutions="1x" timestamp="1586312163935">
   <folder name="css">
     <file name="site_global.css" crc="479923206"/>
     <file name="master_base-layout.css" crc="4221245686" ref="seasons:index:info"/>
     <file name="seasons.css" crc="3776113533" ref="seasons"/>
-    <file name="index.css" crc="378870907" ref="index"/>
-    <file name="info.css" crc="4023802877" ref="info"/>
+    <file name="index.css" crc="3986982469" ref="index"/>
+    <file name="info.css" crc="297523979" ref="info"/>
   </folder>
   <folder name="fonts">
     <file name="minecraft-regular.woff" crc="3949935379"/>
@@ -26,8 +26,8 @@
     <file name="musewpdisclosure.js" crc="4294234138" ref="info"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4224351403" ref="index:info"/>
-    <file name="menu_box_cut.svg" crc="3766986080" ref="index:info"/>
+    <file name="favicon.ico" crc="4224351403" ref="index"/>
+    <file name="menu_box_cut.svg" crc="3766986080" ref="index"/>
     <file name="home.png" crc="328082461" seo="true" ref="index:info:seasons">
       <caption webpage="index" alt=""/>
       <caption webpage="info" alt=""/>
@@ -72,7 +72,7 @@
       <caption webpage="seasons" alt=""/>
     </file>
     <file name="menu_bar_third_selected_poster_.png" crc="4139449294" ref="seasons"/>
-    <file name="menu_box_cut_poster_u693.png" crc="384458540" ref="index:info"/>
+    <file name="menu_box_cut_poster_u693.png" crc="384458540" ref="index"/>
     <file name="info.svg" crc="8509949" seo="true" ref="info">
       <caption webpage="info" alt=""/>
     </file>
@@ -87,11 +87,11 @@
     <file name="season_obsidian.png" crc="412980924" seo="true" ref="seasons">
       <caption webpage="seasons" alt=""/>
     </file>
-    <file name="season_2_banner.png" crc="458516275" seo="true" ref="index">
+    <file name="season_2_banner.png" crc="4130080984" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4201553008" mt="1586107899128" redirect="true"/>
-  <file name="info.html" crc="3886231476" seo="true" mt="1586288034271" redirect="true"/>
+  <file name="index.html" crc="520735136" mt="1586312158056" redirect="true"/>
+  <file name="info.html" crc="525215874" seo="true" mt="1586289153390" redirect="true"/>
   <file name="seasons.html" crc="4176968396" seo="true" mt="1586097084900" redirect="true"/>
 </manifest>
